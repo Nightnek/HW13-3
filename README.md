@@ -19,7 +19,8 @@ sudo nmap -sV < ip-адрес >
 ![image](https://github.com/Nightnek/HW13-3/assets/127677631/62c692a4-5190-4590-9694-009cdc5119d0)
 
 Suricata заметала сканирование, Fail2Ban промолчал:
-![image](https://github.com/Nightnek/HW13-3/assets/127677631/38bd47b3-a2cf-4019-9dd2-a5ca2fb1dab1)
+![image](https://github.com/Nightnek/HW13-3/assets/127677631/dbb6ae3c-8776-4c94-9927-639cfadaf93d)
+
 
 ---
 
