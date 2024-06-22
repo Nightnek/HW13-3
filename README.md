@@ -16,6 +16,10 @@ sudo nmap -sV < ip-адрес >
 В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.
 
 ---
+![image](https://github.com/Nightnek/HW13-3/assets/127677631/62c692a4-5190-4590-9694-009cdc5119d0)
+
+Suricata заметала сканирование, Fail2Ban промолчал:
+![image](https://github.com/Nightnek/HW13-3/assets/127677631/38bd47b3-a2cf-4019-9dd2-a5ca2fb1dab1)
 
 ---
 
@@ -38,5 +42,10 @@ hydra -L users.txt -P pass.txt < ip-адрес > ssh
 В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.
 
 ---
+![image](https://github.com/Nightnek/HW13-3/assets/127677631/af9185a9-ae10-404e-a9d5-8248d689ef55)
+
+Suricata молчит, Fail2Ban забанил IP-адрес "злоумышленника"
+
+![image](https://github.com/Nightnek/HW13-3/assets/127677631/9316c714-164e-4806-880c-f14eeed2843b)
 
 ---
